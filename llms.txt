@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-at-the-county-line/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Midnight at the County Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-at-the-county-line/) |
+| **Get License** | [Commercial Licensing for Midnight at the County Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-at-the-county-line/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1984)
 
 ---
 
