@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-at-the-county-line/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Midnight at the County Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-at-the-county-line/) |
+| **Get License** | [Request Licensing for Midnight at the County Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-at-the-county-line/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel your heartbeat through the steering wheel
+> Every single breath you take is all I want to steal
+> Parked right here beneath the fading yellow sign
+> We've got nothing but the midnight at the county line
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
